@@ -1,4 +1,4 @@
-Created a "HR Analytics " Dashboard in Power Bi where the problem statement was to understand the working preference of people in a company, how many people are working from Office and how many are Working from Home. Datasets were provided by the #Codebasics team where the data was for 3 months ie April, May and June.
+Created a "HR Analytics " Dashboard in Power Bi where the problem statement was to understand the working preference of people in a company, how many people are working from Office and how many are Working from Home. 
 
 📌 Action Plan: 
 
